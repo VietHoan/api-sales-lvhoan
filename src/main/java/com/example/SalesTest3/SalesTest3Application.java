@@ -11,7 +11,7 @@ public class SalesTest3Application {
 
 	@GetMapping()
 	public String message(){
-		return "Welcome you to main page";
+		return "Welcome you to main page after push to git";
 	}
 
 	public static void main(String[] args) {
